@@ -1,11 +1,11 @@
 # This folder includes exercises from JAMK Machine Learning course
 
-## Machine Learning: k Nearest Neighbors
+## k Nearest Neighbors
 
-## Machine Learning: KMeans clustering
+## KMeans clustering
 
-## Machine Learning: Regression methods
+## Regression methods
 
-## Machine Learning: Regression methods
+## SVM plus Other Classification Method
 
-## MMachine Learning: Comparison of Multiple Classification Methods
+## Comparison of Multiple Classification Methods

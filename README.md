@@ -1,1 +1,1 @@
-# machine_learning
+# This folder includes exercises from JAMK Machine Learning course

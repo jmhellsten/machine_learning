@@ -3,3 +3,5 @@
 ## Machine Learning: k Nearest Neighbors
 
 ## Machine Learning: KMeans clustering
+
+## Machine Learning: Regression methods

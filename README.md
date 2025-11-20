@@ -8,4 +8,4 @@
 
 ## Machine Learning: Regression methods
 
-## Machine Learning: Regression methods
+## MMachine Learning: Comparison of Multiple Classification Methods
